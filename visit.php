@@ -22,7 +22,7 @@ echo "_   _                 _
 
 echo " Only God Can Stop Me :D \n ";
 echo " $merah INFO! ";
-echo file_get_contents("https://pastebin.com/raw/k4qabq9K");
+echo file_get_contents("https://pastebin.com/raw/G2fUaBnL");
 echo " \n";
 echo "$hijau Contact Me : \n";
 echo " Facebook : http://fb.me/basmal106 \n";
